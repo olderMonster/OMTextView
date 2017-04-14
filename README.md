@@ -5,7 +5,7 @@
 ![img](https://github.com/olderMonster/OMTextView/blob/master/Untitled.gif) 
 
 使用方法：
-` `` 
+``` 
 - (void)viewDidLoad {
 [super viewDidLoad];
 
@@ -35,4 +35,4 @@ _adviceTextView.omPlaceholder = @"123124142";
 return _adviceTextView;
 }
 
-` `` 
+``` 
